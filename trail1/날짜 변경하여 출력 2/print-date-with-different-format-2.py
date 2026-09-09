@@ -1,0 +1,5 @@
+a=input().split("-")
+y = int(a[2])
+d = int(a[1])
+m = int(a[0])
+print("%d.%d.%d"%(y,m,d))
